@@ -16,7 +16,7 @@ Themes for use with OpenCore 0.7.0 and Higher and OpenCore Legacy Patcher (OCLP)
 ## Replace the unziped `Resources` folder in `EFI/OC`
 
 
-## All 3DRounded themes view
+## 3D_Squared themes view
 
 
   - 3D_Squared_Hero ([Download](https://github.com/alphascorp/3D_Squared-OC-themes/blob/main/Themes/3D_Squared_Hero.zip))
