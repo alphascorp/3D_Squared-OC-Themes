@@ -14,7 +14,7 @@ Themes for use with OpenCore 0.7.0 and Higher and OpenCore Legacy Patcher (OCLP)
 
 Like this:
 
-<img width="400" alt="1" src="https://github.com/alphascorp/3D_BSDrive-OC-Themes/blob/main/Screenshots/Screenshot_config.plist.jpg">
+<img width="400" alt="1" src="https://github.com/alphascorp/3D_Squared-OC-Themes/blob/main/Screenshots/Screenshot_config.plist.jpg">
 
 ## Replace the unziped `Resources` folder in `EFI/OC`
 
