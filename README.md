@@ -52,5 +52,5 @@ Like this:
 
 ## Credits:
 
-Thanks [chriss111](https://github.com/chris1111/)
+Thanks [chriss1111](https://github.com/chris1111/)
 for [OpenCanopy-Generator](https://github.com/chris1111/OpenCanopy-Generator)
