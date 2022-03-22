@@ -13,8 +13,29 @@ Themes for use with OpenCore 0.7.0 and Higher and OpenCore Legacy Patcher (OCLP)
 - Misc —> Boot —> PickerAtributes: 145
 
 Like this:
-
-<img width="400" alt="1" src="https://github.com/alphascorp/3D_Squared-OC-Themes/blob/main/Screenshots/Screenshot_config.plist.jpg">
+```
+<key>Misc</key>
+<dict>
+  
+  …
+  
+  <key>Boot</key>
+  <dict>
+    
+    …
+    
+    <key>PickerAttributes</key>
+    <integer>145</integer>
+    
+    …
+    
+    <key>PickerVariant</key>
+    <string>Alphascorp\3D_Squared_Hero</string>
+    
+    …
+          
+  </dict>
+```
 
 ## Replace the unziped `Resources` folder in `EFI/OC`
 
@@ -23,31 +44,31 @@ Like this:
 
 
   - 3D_Squared_Hero ([Download](https://github.com/alphascorp/3D_Squared-OC-Themes/raw/main/Themes/3D_Squared_Hero.zip))
-<img width="800" alt="1" src="https://github.com/alphascorp/3D_Squared-OC-themes/blob/main/Screenshots/3D_Squared_Hero_Bootview.jpg">
+<p align="center"><img width="800" alt="3D_Squared_Hero Screenshot" src="https://github.com/alphascorp/3D_Squared-OC-themes/blob/main/Screenshots/3D_Squared_Hero_Bootview.jpg"></p>
  
   - 3D_Squared_Aurora ([Download](https://github.com/alphascorp/3D_Squared-OC-themes/raw/main/Themes/3D_Squared_Aurora.zip))
-<img width="800" alt="1" src="https://github.com/alphascorp/3D_Squared-OC-themes/blob/main/Screenshots/3D_Squared_Aurora_Bootview.jpg">
+<p align="center"><img width="800" alt="3D_Squared_Aurora Screenshot" src="https://github.com/alphascorp/3D_Squared-OC-themes/blob/main/Screenshots/3D_Squared_Aurora_Bootview.jpg"></p>
    
   - 3D_Squared_CaliforniaStreaming ([Download](https://github.com/alphascorp/3D_Squared-OC-themes/raw/main/Themes/3D_Squared_CaliforniaStreaming.zip))
-<img width="800" alt="1" src="https://github.com/alphascorp/3D_Squared-OC-themes/blob/main/Screenshots/3D_Squared_CaliforniaStreaming_BootView.jpg">
+<p align="center"><img width="800" alt="3D_Squared_CaliforniaStreaming Screenshot" src="https://github.com/alphascorp/3D_Squared-OC-themes/blob/main/Screenshots/3D_Squared_CaliforniaStreaming_BootView.jpg"></p>
    
   - 3D_Squared_Unleashed ([Download](https://github.com/alphascorp/3D_Squared-OC-themes/raw/main/Themes/3D_Squared_Unleashed.zip))
-<img width="800" alt="1" src="https://github.com/alphascorp/3D_Squared-OC-themes/blob/main/Screenshots/3D_Squared_Unleashed_BootView.jpg">
+<p align="center"><img width="800" alt="3D_Squared_Unleashed Screenshot" src="https://github.com/alphascorp/3D_Squared-OC-themes/blob/main/Screenshots/3D_Squared_Unleashed_BootView.jpg"></p>
 
   - 3D_Squared_BigSurLight ([Download](https://github.com/alphascorp/3D_Squared-OC-themes/raw/main/Themes/3D_Squared_BigSurLight.zip))
-<img width="800" alt="1" src="https://github.com/alphascorp/3D_Squared-OC-themes/blob/main/Screenshots/3D_Squared_BigSurLight_BootView.jpg">
+<p align="center"><img width="800" alt="3D_Squared_BigSurLight Screenshot" src="https://github.com/alphascorp/3D_Squared-OC-themes/blob/main/Screenshots/3D_Squared_BigSurLight_BootView.jpg"></p>
    
   - 3D_Squared_BigSurDark ([Download](https://github.com/alphascorp/3D_Squared-OC-themes/raw/main/Themes/3D_Squared_BigSurDark.zip))
-<img width="800" alt="1" src="https://github.com/alphascorp/3D_Squared-OC-themes/blob/main/Screenshots/3D_Squared_BigSurDark_BootView.jpg">
+<p align="center"><img width="800" alt="3D_Squared_BigSurDark Screenshot" src="https://github.com/alphascorp/3D_Squared-OC-themes/blob/main/Screenshots/3D_Squared_BigSurDark_BootView.jpg"></p>
    
   - 3D_Squared_MontereyLight ([Download](https://github.com/alphascorp/3D_Squared-OC-themes/raw/main/Themes/3D_Squared_MontereyLight.zip))
-<img width="800" alt="1" src="https://github.com/alphascorp/3D_Squared-OC-themes/blob/main/Screenshots/3D_Squared_MontereyLight_BootView.jpg">
+<p align="center"><img width="800" alt="3D_Squared_MontereyLight Screenshot" src="https://github.com/alphascorp/3D_Squared-OC-themes/blob/main/Screenshots/3D_Squared_MontereyLight_BootView.jpg"></p>
    
   - 3D_Squared_MontereyDark ([Download](https://github.com/alphascorp/3D_Squared-OC-themes/raw/main/Themes/3D_Squared_MontereyDark.zip))
-<img width="800" alt="1" src="https://github.com/alphascorp/3D_Squared-OC-themes/blob/main/Screenshots/3D_Squared_MontereyDark_BootView.jpg">
+<p align="center"><img width="800" alt="3D_Squared_MontereyDark Screenshot" src="https://github.com/alphascorp/3D_Squared-OC-themes/blob/main/Screenshots/3D_Squared_MontereyDark_BootView.jpg"></p>
    
   - 3D_Squared_NeutralGrey ([Download](https://github.com/alphascorp/3D_Squared-OC-themes/raw/main/Themes/3D_Squared_NeutralGrey.zip))
-<img width="800" alt="1" src="https://github.com/alphascorp/3D_Squared-OC-themes/blob/main/Screenshots/3D_Squared_NeutralGrey_BootView.jpg">
+<p align="center"><img width="800" alt="3D_Squared_NeutralGrey Screenshot" src="https://github.com/alphascorp/3D_Squared-OC-themes/blob/main/Screenshots/3D_Squared_NeutralGrey_BootView.jpg"></p>
   
 
 ## Credits:
