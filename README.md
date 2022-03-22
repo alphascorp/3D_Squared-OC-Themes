@@ -2,7 +2,7 @@
 Themes for use with OpenCore 0.7.0 and Higher and OpenCore Legacy Patcher (OCLP)
 
 
-## :warning: First Use ➤  Change `config.plist` in `EFI/OC` :warning:
+## :warning: First Use ➤  Change `config.plist` in `EFI/OC`
 
 ### Set PickerVariant (3D_Squared_Hero theme for example)
 
