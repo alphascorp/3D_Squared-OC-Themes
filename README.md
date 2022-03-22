@@ -8,9 +8,9 @@ Themes for use with OpenCore 0.7.0 and Higher and OpenCore Legacy Patcher (OCLP)
 
 - Misc —> Boot —> PickerVariant: Alphascorp\3D_Squared_Hero
 
-### Set PickerAtributes
+### Set PickerAttributes
 
-- Misc —> Boot —> PickerAtributes: 145
+- Misc —> Boot —> PickerAttributes: 145
 
 Like this:
 ```
