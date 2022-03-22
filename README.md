@@ -2,7 +2,7 @@
 
 ---
 
-#### Themes for use with OpenCore 0.7.0 and Higher and OpenCore Legacy Patcher (OCLP)
+<h4 align="center">Themes for use with OpenCore 0.7.0 and Higher and OpenCore Legacy Patcher (OCLP)</h4>
 
 ---
 
