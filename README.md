@@ -16,7 +16,7 @@
 
 - Misc —> Boot —> PickerAttributes: 145
 
-Like this: :arrow_heading_down:
+### Like this: :arrow_heading_down:
 ```
 <key>Misc</key>
 <dict>
