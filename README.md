@@ -41,7 +41,7 @@
   </dict>
 ```
 
-## Replace the unziped `Resources` folder in `EFI/OC`
+## Replace the unzipped `Resources` folder in `EFI/OC`
 
 
 ## 3D_Squared themes view
