@@ -59,6 +59,14 @@
   - 3D_Squared_Unleashed :point_right: ([Download](https://github.com/alphascorp/3D_Squared-OC-themes/raw/main/Themes/3D_Squared_Unleashed.zip))
 <p align="center"><img width="800" alt="3D_Squared_Unleashed Screenshot" src="https://github.com/alphascorp/3D_Squared-OC-themes/raw/main/Screenshots/3D_Squared_Unleashed_BootView.jpg"></p>
 
+  - 3D_Squared_VenturaLight :point_right: ([Download](https://github.com/alphascorp/3D_Squared-OC-themes/raw/main/Themes/3D_Squared_VenturaLight.zip))
+
+<p align="center"><img width="800" alt="3D_Squared_VenturaLight Screenshot" src="https://github.com/alphascorp/3D_Squared-OC-themes/raw/main/Screenshots/3D_Squared_VenturaLight_BootView.jpg"></p>
+
+  - 3D_Squared_VenturaDark :point_right: ([Download](https://github.com/alphascorp/3D_Squared-OC-themes/raw/main/Themes/3D_Squared_VenturaDark.zip))
+
+<p align="center"><img width="800" alt="3D_Squared_VenturaDark Screenshot" src="https://github.com/alphascorp/3D_Squared-OC-themes/raw/main/Screenshots/3D_Squared_VenturaDark_BootView.jpg"></p>
+
   - 3D_Squared_BigSurLight :point_right: ([Download](https://github.com/alphascorp/3D_Squared-OC-themes/raw/main/Themes/3D_Squared_BigSurLight.zip))
 <p align="center"><img width="800" alt="3D_Squared_BigSurLight Screenshot" src="https://github.com/alphascorp/3D_Squared-OC-themes/raw/main/Screenshots/3D_Squared_BigSurLight_BootView.jpg"></p>
    
