@@ -60,7 +60,7 @@
 <p align="center"><img width="800" alt="3D_Squared_Unleashed Screenshot" src="https://github.com/alphascorp/3D_Squared-OC-themes/raw/main/Screenshots/3D_Squared_Unleashed_BootView.jpg"></p>
 
   - 3D_Squared_SonomaLight :point_right: ([Download](https://github.com/alphascorp/3D_Squared-OC-Themes/raw/main/Themes/3D_Squared_SonomaLight.zip))
-<p align="center"><img width="800" alt="3D_Squared_SonomaLight Screenshot" src="https://github.com/alphascorp/3D_Squared-OC-Themes/blob/main/Screenshots/3D_Squared_SonomaLight_BootView.jpg"></p>
+<p align="center"><img width="800" alt="3D_Squared_SonomaLight Screenshot" src="https://raw.githubusercontent.com/alphascorp/3D_Squared-OC-Themes/main/Screenshots/3D_Squared_SonomaLight_BootView.jpg"></p>
 
   - 3D_Squared_SonomaDark :point_right: ([Download](https://github.com/alphascorp/3D_Squared-OC-Themes/raw/main/Themes/3D_Squared_SonomaDark.zip))
 <p align="center"><img width="800" alt="3D_Squared_SonomaDark Screenshot" src="https://github.com/alphascorp/3D_Squared-OC-themes/raw/main/Screenshots/3D_Squared_SonomaDark_BootView.jpg"></p>
