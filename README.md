@@ -47,6 +47,15 @@
 ## 3D_Squared themes view
 
 
+  - 3D_Squared_SequoiaLight :point_right: ([Download](https://github.com/alphascorp/3D_Squared-OC-Themes/raw/main/Themes/3D_Squared_SequoiaLight.zip))
+<p align="center"><img width="800" alt="3D_Squared_Hero Screenshot" src="https://github.com/alphascorp/3D_Squared-OC-themes/raw/main/Screenshots/3D_Squared_SequoiaLight_BootView.jpg"></p>
+   
+  - 3D_Squared_SequoiaDark :point_right: ([Download](https://github.com/alphascorp/3D_Squared-OC-Themes/raw/main/Themes/3D_Squared_SequoiaDark.zip))
+<p align="center"><img width="800" alt="3D_Squared_Hero Screenshot" src="https://github.com/alphascorp/3D_Squared-OC-themes/raw/main/Screenshots/3D_Squared_SequoiaDark_BootView.jpg"></p>
+   
+  - 3D_Squared_jing_an :point_right: ([Download](https://github.com/alphascorp/3D_Squared-OC-Themes/raw/main/Themes/3D_Squared_jing_an.zip))
+<p align="center"><img width="800" alt="3D_Squared_Hero Screenshot" src="https://github.com/alphascorp/3D_Squared-OC-themes/raw/main/Screenshots/3D_Squared_jing_an_BootView.jpg"></p>
+   
   - 3D_Squared_Hero :point_right: ([Download](https://github.com/alphascorp/3D_Squared-OC-Themes/raw/main/Themes/3D_Squared_Hero.zip))
 <p align="center"><img width="800" alt="3D_Squared_Hero Screenshot" src="https://github.com/alphascorp/3D_Squared-OC-themes/raw/main/Screenshots/3D_Squared_Hero_Bootview.jpg"></p>
  
