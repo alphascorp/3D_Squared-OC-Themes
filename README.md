@@ -48,25 +48,25 @@
 
 
   - 3D_Squared_TahoeLight :point_right: ([Download](https://github.com/alphascorp/3D_Squared-OC-Themes/raw/main/Themes/3D_Squared_TahoeLight.zip))
-<p align="center"><img width="800" alt="3D_Squared_TahoeLight Screenshot" src="https://github.com/alphascorp/3D_Squared-OC-Themes/raw/main/Screenshots/3D_Squared_TahoeLight_Bootview.jpg"></p>
+<p align="center"><img width="800" alt="3D_Squared_TahoeLight Screenshot" src="https://github.com/alphascorp/3D_Squared-OC-Themes/raw/main/Screenshots/3D_Squared_TahoeLight_BootView.jpg"></p>
    
   - 3D_Squared_TahoeDark :point_right: ([Download](https://github.com/alphascorp/3D_Squared-OC-Themes/raw/main/Themes/3D_Squared_TahoeDark.zip))
-<p align="center"><img width="800" alt="3D_Squared_TahoeDark Screenshot" src="https://github.com/alphascorp/3D_Squared-OC-Themes/raw/main/Screenshots/3D_Squared_TahoeDark_Bootview.jpg"></p>
+<p align="center"><img width="800" alt="3D_Squared_TahoeDark Screenshot" src="https://github.com/alphascorp/3D_Squared-OC-Themes/raw/main/Screenshots/3D_Squared_TahoeDark_BootView.jpg"></p>
 
   - 3D_Squared_SequoiaLight :point_right: ([Download](https://github.com/alphascorp/3D_Squared-OC-Themes/raw/main/Themes/3D_Squared_SequoiaLight.zip))
-<p align="center"><img width="800" alt="3D_Squared_SequoiaLight Screenshot" src="https://github.com/alphascorp/3D_Squared-OC-Themes/raw/main/Screenshots/3D_Squared_SequoiaLight_Bootview.jpg"></p>
+<p align="center"><img width="800" alt="3D_Squared_SequoiaLight Screenshot" src="https://github.com/alphascorp/3D_Squared-OC-Themes/raw/main/Screenshots/3D_Squared_SequoiaLight_BootView.jpg"></p>
    
   - 3D_Squared_SequoiaDark :point_right: ([Download](https://github.com/alphascorp/3D_Squared-OC-Themes/raw/main/Themes/3D_Squared_SequoiaDark.zip))
-<p align="center"><img width="800" alt="3D_Squared_SequoiaDark Screenshot" src="https://github.com/alphascorp/3D_Squared-OC-Themes/raw/main/Screenshots/3D_Squared_SequoiaDark_Bootview.jpg"></p>
+<p align="center"><img width="800" alt="3D_Squared_SequoiaDark Screenshot" src="https://github.com/alphascorp/3D_Squared-OC-Themes/raw/main/Screenshots/3D_Squared_SequoiaDark_BootView.jpg"></p>
    
   - 3D_Squared_jing_an :point_right: ([Download](https://github.com/alphascorp/3D_Squared-OC-Themes/raw/main/Themes/3D_Squared_jing_an.zip))
-<p align="center"><img width="800" alt="3D_Squared_jing_an Screenshot" src="https://github.com/alphascorp/3D_Squared-OC-Themes/raw/main/Screenshots/3D_Squared_jing_an_Bootview.jpg"></p>
+<p align="center"><img width="800" alt="3D_Squared_jing_an Screenshot" src="https://github.com/alphascorp/3D_Squared-OC-Themes/raw/main/Screenshots/3D_Squared_jing_an_BootView.jpg"></p>
    
   - 3D_Squared_Hero :point_right: ([Download](https://github.com/alphascorp/3D_Squared-OC-Themes/raw/main/Themes/3D_Squared_Hero.zip))
-<p align="center"><img width="800" alt="3D_Squared_Hero Screenshot" src="https://github.com/alphascorp/3D_Squared-OC-Themes/raw/main/Screenshots/3D_Squared_Hero_Bootview.jpg"></p>
+<p align="center"><img width="800" alt="3D_Squared_Hero Screenshot" src="https://github.com/alphascorp/3D_Squared-OC-Themes/raw/main/Screenshots/3D_Squared_Hero_BootView.jpg"></p>
    
   - 3D_Squared_Aurora :point_right: ([Download](https://github.com/alphascorp/3D_Squared-OC-Themes/raw/main/Themes/3D_Squared_Aurora.zip))
-<p align="center"><img width="800" alt="3D_Squared_Aurora Screenshot" src="https://github.com/alphascorp/3D_Squared-OC-Themes/raw/main/Screenshots/3D_Squared_Aurora_Bootview.jpg"></p>
+<p align="center"><img width="800" alt="3D_Squared_Aurora Screenshot" src="https://github.com/alphascorp/3D_Squared-OC-Themes/raw/main/Screenshots/3D_Squared_Aurora_BootView.jpg"></p>
    
   - 3D_Squared_CaliforniaStreaming :point_right: ([Download](https://github.com/alphascorp/3D_Squared-OC-Themes/raw/main/Themes/3D_Squared_CaliforniaStreaming.zip))
 <p align="center"><img width="800" alt="3D_Squared_CaliforniaStreaming Screenshot" src="https://github.com/alphascorp/3D_Squared-OC-Themes/raw/main/Screenshots/3D_Squared_CaliforniaStreaming_BootView.jpg"></p>
@@ -111,10 +111,10 @@
 <p align="center"><img width="800" alt="3D_Squared_Hero Screenshot" src="https://github.com/alphascorp/3D_Squared-OC-themes/raw/main/Screenshots/3D_Squared_jing_an_BootView.jpg"></p>
    
   - 3D_Squared_Hero :point_right: ([Download](https://github.com/alphascorp/3D_Squared-OC-Themes/raw/main/Themes/3D_Squared_Hero.zip))
-<p align="center"><img width="800" alt="3D_Squared_Hero Screenshot" src="https://github.com/alphascorp/3D_Squared-OC-themes/raw/main/Screenshots/3D_Squared_Hero_Bootview.jpg"></p>
+<p align="center"><img width="800" alt="3D_Squared_Hero Screenshot" src="https://github.com/alphascorp/3D_Squared-OC-themes/raw/main/Screenshots/3D_Squared_Hero_BootView.jpg"></p>
  
   - 3D_Squared_Aurora :point_right: ([Download](https://github.com/alphascorp/3D_Squared-OC-Themes/raw/main/Themes/3D_Squared_Aurora.zip))
-<p align="center"><img width="800" alt="3D_Squared_Aurora Screenshot" src="https://github.com/alphascorp/3D_Squared-OC-themes/raw/main/Screenshots/3D_Squared_Aurora_Bootview.jpg"></p>
+<p align="center"><img width="800" alt="3D_Squared_Aurora Screenshot" src="https://github.com/alphascorp/3D_Squared-OC-themes/raw/main/Screenshots/3D_Squared_Aurora_BootView.jpg"></p>
    
   - 3D_Squared_CaliforniaStreaming :point_right: ([Download](https://github.com/alphascorp/3D_Squared-OC-Themes/raw/main/Themes/3D_Squared_CaliforniaStreaming.zip))
 <p align="center"><img width="800" alt="3D_Squared_CaliforniaStreaming Screenshot" src="https://github.com/alphascorp/3D_Squared-OC-themes/raw/main/Screenshots/3D_Squared_CaliforniaStreaming_BootView.jpg"></p>
